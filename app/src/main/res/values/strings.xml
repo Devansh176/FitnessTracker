@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FitnessTracker</string>
+    <string name="google_fit_app_id">YOUR_GOOGLE_FIT_APP_ID</string>
+</resources>
