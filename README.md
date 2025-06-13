@@ -30,7 +30,6 @@ A modern Android fitness companion app built using **Kotlin**. This app plays a 
 | UI Toolkit        | Jetpack Compose                      |
 | Data Access       | Google Fit API + OAuth 2.0           |
 | Network Layer     | Retrofit + REST                      |
-| State Management  | ViewModel + LiveData (if used)       |
 | Backend           | Spring Boot                          |
 | Build System      | Gradle (Kotlin DSL)                  |
 
