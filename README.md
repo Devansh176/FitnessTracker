@@ -97,8 +97,8 @@ To access **Google Fit** data:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/fitness-tracker-kotlin.git
-cd fitness-tracker-kotlin
+git clone https://github.com/Devansh176/FitnessTracker.git
+cd fitness-tracker
 
 # 2. Open in Android Studio and let Gradle sync
 
@@ -140,7 +140,7 @@ Due to Google Fit's internal system design, **real-time data can only be fetched
 Once authenticated and connected:
 - App listens to heart rate data from Google Fit (updated every 5 min)
 - Displays latest readings
-- Sends data to backend for further analytics and monitoring
+- Sends data to the backend for further analytics and monitoring
 
 ---
 
